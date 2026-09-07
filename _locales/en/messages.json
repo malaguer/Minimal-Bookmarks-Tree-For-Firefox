@@ -1,0 +1,188 @@
+{
+    "optionsHeader": {
+        "message": "Minimal Bookmarks Tree Options"
+    },
+    "optionCloseFolderOnOpenNew": {
+        "message": "Close currently opened folder when opening a new one."
+    },
+    "optionOpenAllTraverseSubfolders": {
+        "message": "When clicking \"Open all\", open all bookmarks in all subfolders as well."
+    },
+    "optionHideEmptyFolders": {
+        "message": "Hide empty folders."
+    },
+    "optionRememberScrollPosition": {
+        "message": "Remember scroll position when Minimal Bookmarks Tree window closes."
+    },
+    "optionIcon": {
+        "message": "Icon"
+    },
+    "optionIconDefault": {
+        "message": "Default"
+    },
+    "optionIconStar": {
+        "message": "Star"
+    },
+    "optionIconOpenStar": {
+        "message": "Open star"
+    },
+    "optionIconWhiteStar": {
+        "message": "White Star"
+    },
+    "optionIconWhiteOpenStar": {
+        "message": "White Open star"
+    },
+    "optionAnimationSpeed": {
+        "message": "Animation speed"
+    },
+    "optionAnimationSpeedNoAnimation": {
+        "message": "No animation"
+    },
+    "optionAnimationSpeedVerySlow": {
+        "message": "Slug like"
+    },
+    "optionAnimationSpeedSlow": {
+        "message": "Slow"
+    },
+    "optionAnimationSpeedMedium": {
+        "message": "Medium"
+    },
+    "optionAnimationSpeedFast": {
+        "message": "Fast"
+    },
+    "optionAnimationSpeedVeryFast": {
+        "message": "Super fast"
+    },
+    "optionZoomLevel": {
+        "message": "Zoom level"
+    },
+    "optionPreferredHeight": {
+        "message": "Preferred height"
+    },
+    "optionPreferredWidth": {
+        "message": "Preferred width"
+    },
+    "optionMin": {
+        "message": "min"
+    },
+    "optionMax": {
+        "message": "max"
+    },
+    "optionDefault": {
+        "message": "default"
+    },
+    "optionWidthHeightEnforcedByBrowser": {
+        "message": "Max width and height are enforced by Chrome, not by Minimal Bookmarks Tree."
+    },
+    "optionWidthHeightOptimization": {
+        "message": "Minimal Bookmarks Tree will try its best to fit on the screen, and scale down if it thinks there isn't enough room. If becomes too large, enter smaller values in the width\/height fields above."
+    },
+    "optionSavedAutomatically": {
+        "message": "Settings are saved automatically when you click\/select them."
+    },
+    "optionShowLicense": {
+        "message": "Show license"
+    },
+    "popupTitle": {
+        "message": "Minimal Bookmarks Tree"
+    },
+    "popupLoading": {
+        "message": "Loading ..."
+    },
+    "popupEditBookmark": {
+        "message": "Edit ..."
+    },
+    "popupDeleteBookmark": {
+        "message": "Delete"
+    },
+    "popupOpenAll": {
+        "message": "Open all"
+    },
+    "popupEditFolder": {
+        "message": "Edit ..."
+    },
+    "popupDeleteFolder": {
+        "message": "Delete"
+    },
+    "bookmarkEditName": {
+        "message": "Name"
+    },
+    "bookmarkEditUrl": {
+        "message": "URL"
+    },
+    "bookmarkEditSave": {
+        "message": "Save"
+    },
+    "bookmarkEditCancel": {
+        "message": "Cancel"
+    },
+    "confirmationConfirm": {
+        "message": "Yes"
+    },
+    "confirmationDeny": {
+        "message": "Never mind"
+    },
+    "deleteBookmark": {
+        "message": "Are you sure you want to delete this bookmark?"
+    },
+    "deleteFolder": {
+        "message": "Are you sure you want to delete this folder?"
+    },
+    "omniboxFolderDescription": {
+        "message": "bookmarks folder"
+    },
+    "omniboxDefaultSuggestion": {
+        "message": "Search for bookmarks and bookmark folders"
+    },
+    "optionConfirmBookmarkDeletion": {
+        "message": "Confirm bookmark deletion"
+    },
+    "optionClickAction": {
+        "message": "On click, open bookmark in"
+    },
+    "optionMiddleClickAction": {
+        "message": "On middle click, open bookmark in"
+    },
+    "optionSuperClickAction": {
+        "message": "On ctrl\/option + click, open bookmark in"
+    },
+    "optionClickActionCurrent": {
+        "message": "Current tab"
+    },
+    "optionClickActionNew": {
+        "message": "New tab"
+    },
+    "optionClickActionBackground": {
+        "message": "Background tab"
+    },
+    "optionClickActionNewWindow": {
+        "message": "New Window"
+    },
+    "optionClickActionNewIncognitoWindow": {
+        "message": "New Incognito Window"
+    },
+    "optionFont": {
+        "message": "Font"
+    },
+    "optionFontDefault": {
+        "message": "Default"
+    },
+    "optionStartWithAllFoldersClosed": {
+        "message": "Start with all folders closed"
+    },
+    "popupOpenNewTab": {
+        "message": "Open in new tab"
+    },
+    "popupOpenNewWindow": {
+        "message": "Open in new window"
+    },
+    "popupOpenNewIncognitoWindow": {
+        "message": "Open in incognito window"
+    },
+    "deleteBookmarkFolder": {
+        "message": "Are you sure you want to delete this bookmark folder?"
+    },
+    "optionKeyboardSupport": {
+        "message": "Enable keyboard support (experimental)"
+    }
+}
